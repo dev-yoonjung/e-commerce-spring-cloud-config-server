@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/dev-yoonjung/e-commerce-config-file
           default-label: master
